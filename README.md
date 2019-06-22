@@ -7,3 +7,5 @@ Name your slides as follow
 **Date + Name + Title + Other**
 
 "Other" contains items such as conference name, etc.
+
+@FUZHIYI, fix the naming please!
