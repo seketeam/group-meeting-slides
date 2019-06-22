@@ -1,6 +1,6 @@
 # Group Meeting Slides
 
-**@FUZHIYI, fix the naming please!**
+# **@FUZHIYI, fix the naming please!**
 
 Upload your slides right before/after group meeting, please.
 
